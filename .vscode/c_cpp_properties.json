@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/ros/humble/include/**"
+                "/opt/ros/humble/include/**",
+                "~/rover-2024/ros2_ws/odrive_remote/include/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
