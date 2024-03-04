@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/ros/humble/include/**",
-                "~/rover-2024/ros2_ws/odrive_remote/include/**"
+                "~/rover-2024/ros2_ws/src/odrive_remote/include/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
